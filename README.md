@@ -1,3 +1,3 @@
 ## Landing
 ### Complete landing page.
-### Jquery, HTML y Bootstrap 5.
+### Javascript, HTML y Bootstrap 5.
